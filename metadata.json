@@ -1,0 +1,6 @@
+{
+  "name": "Malani Seva Sanstha",
+  "description": "Community portal for Malani Seva Sanstha, Bithuja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
